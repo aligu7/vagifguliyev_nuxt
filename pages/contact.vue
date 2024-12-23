@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("contact", () =>
-  queryContent("/contact").findOne()
-);
+const { data } = await useAsyncData("contact", () => queryContent("/contact").findOne());
 </script>
 
 <template>
@@ -22,9 +20,7 @@ const { data } = await useAsyncData("contact", () =>
           ></iframe>
 
           <br /><small>
-            <a :href="data.links.mapLocation" target="_blank"
-              >View Larger Map</a
-            >
+            <a :href="data.links.mapLocation" target="_blank">View Larger Map</a>
           </small>
           <div class="cleaner h30"></div>
           <div
@@ -36,19 +32,11 @@ const { data } = await useAsyncData("contact", () =>
             data-theme="dark"
             data-vanity="vagif-guliyev-71856a70"
           >
-            <a
-              class="LI-simple-link"
-              :href="data.links.linkedin"
-              target="_blank"
-              >Vagif Guliyev</a
-            >
+            <a class="LI-simple-link" :href="data.links.linkedin" target="_blank">Vagif Guliyev</a>
           </div>
         </div>
         <div style="font-weight: bold; margin-top: 15px">
-          <a
-            :href="data.links.twitter"
-            class="twitter-follow-button"
-            data-show-count="false"
+          <a :href="data.links.twitter" class="twitter-follow-button" data-show-count="false"
             >Follow @ProfVagifG</a
           >
         </div>

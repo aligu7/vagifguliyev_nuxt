@@ -25,9 +25,7 @@ const onSlideChange = () => {
 // Swiper modules
 const modules = [Navigation, Pagination, Scrollbar, A11y];
 
-const { data } = await useAsyncData("photo", () =>
-  queryContent("/photo").findOne()
-);
+const { data } = await useAsyncData("photo", () => queryContent("/photo").findOne());
 </script>
 
 <template>

@@ -8,7 +8,8 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "postbuild": "[ -d .output/public ] || mkdir -p .output/public"
+    "postbuild": "[ -d .output/public ] || mkdir -p .output/public",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@nuxt/components": "^2.2.1",
@@ -21,6 +22,7 @@
     "@nuxt/image": "^1.8.0",
     "@nuxthub/core": "^0.7.14",
     "nuxt": "^3.12.4",
+    "prettier": "^3.4.2",
     "wrangler": "^3.78.2"
   }
 }

@@ -9,7 +9,7 @@ images:
     ahievran: "/img/ahievranbanner.jpeg",
     rudn: "/img/rudn.jpg",
     bakuuniversity: "/img/bakustateuniversity.jpg",
-    photo92: "/img/92photo.jpg",
+    photo92: "/img/92photo.jpg"
   }
 quoteHeydar:
   [
@@ -17,6 +17,6 @@ quoteHeydar:
     'that I am Azerbaijani"',
     "Heydar Aliyev",
     "Honouring the memory of",
-    "National Leader Heydar Aliyev",
+    "National Leader Heydar Aliyev"
   ]
 ---

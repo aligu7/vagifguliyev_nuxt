@@ -4,7 +4,7 @@ videos:
   [
     "https://www.youtube.com/embed/niiRMUFH-EM",
     "https://www.youtube.com/embed/MzmuUq8H3Xs",
-    "https://www.youtube.com/embed/t3I_mTls2Gc",
+    "https://www.youtube.com/embed/t3I_mTls2Gc"
   ]
 ---
 

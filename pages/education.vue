@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("education", () =>
-  queryContent("/education").findOne()
-);
+const { data } = await useAsyncData("education", () => queryContent("/education").findOne());
 </script>
 
 <template>
@@ -22,19 +20,13 @@ const { data } = await useAsyncData("education", () =>
             {{ dataRowEl.dissertation_thesisTitle }}
             <span v-if="dataRowEl.formula"
               ><i
-                >{{ dataRowEl.formula.base
-                }}<sup>{{ dataRowEl.formula.powerOf }}</sup></i
+                >{{ dataRowEl.formula.base }}<sup>{{ dataRowEl.formula.powerOf }}</sup></i
               ></span
             >
           </td>
         </tr>
       </table>
-      <img
-        v-for="img in data.images"
-        :key="img"
-        :src="img"
-        class="img_float_r img_frame"
-      />
+      <img v-for="img in data.images" :key="img" :src="img" class="img_float_r img_frame" />
 
       <div class="cleaner"></div>
     </div>

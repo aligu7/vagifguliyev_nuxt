@@ -15,31 +15,21 @@ const { data } = await useAsyncData("index", () => queryContent("/").findOne());
         />
         <p align="justify" style="text-align: right">
           <em>
-            <span v-for="line in data.quoteHeydar" :key="line">
-              {{ line }} <br />
-            </span>
+            <span v-for="line in data.quoteHeydar" :key="line"> {{ line }} <br /> </span>
           </em>
         </p>
 
         <hr />
         <p align="justify"></p>
         <h5>
-          Famous Mathematician from Azerbaijan he has made great contribution in
-          the sphere of Mathematics.
+          Famous Mathematician from Azerbaijan he has made great contribution in the sphere of
+          Mathematics.
         </h5>
 
         <h5>Full CV can be downloaded as</h5>
 
-        <a
-          href="/pdf/vagifguliyev_cv.pdf"
-          target="_blank"
-          title="PDF File CV Vagif Guliyev"
-        >
-          <img
-            :src="data.images.downloadpdfbutton1"
-            height="60px"
-            width="60px"
-          />
+        <a href="/pdf/vagifguliyev_cv.pdf" target="_blank" title="PDF File CV Vagif Guliyev">
+          <img :src="data.images.downloadpdfbutton1" height="60px" width="60px" />
         </a>
 
         <h3>
@@ -60,17 +50,14 @@ const { data } = await useAsyncData("index", () => queryContent("/").findOne());
             ><img :src="data.images.rudn" />
           </a>
           <div class="row">
-            <a
-              href="http://www.science.gov.az/forms/chlenyikorrespondentyi/1364"
-              target="_blank"
+            <a href="http://www.science.gov.az/forms/chlenyikorrespondentyi/1364" target="_blank"
               ><img :src="data.images.amea"
             /></a>
             <a
               href="http://www.imm.az/exp/jubilees/corresponding-member-of-anas-vagif-guliyev-is-60/?lang=en"
               target="_blank"
               class="vagif-and-imea"
-              ><img :src="data.images.VagifGuliyev60yubiley" /><img
-                :src="data.images.imea"
+              ><img :src="data.images.VagifGuliyev60yubiley" /><img :src="data.images.imea"
             /></a>
           </div>
         </div>

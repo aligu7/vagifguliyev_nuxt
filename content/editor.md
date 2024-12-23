@@ -4,7 +4,8 @@ title: "Editorial Activity - Prof. Dr. Vagif S. Guliyev"
 
 ### <em>Editor-in-Chief</em>
 
-1. Transactions Issue Mathematics, Series of Physical-Technical & Mathematics Science, Azerbaijan National Academy of Science;
+1. Transactions Issue Mathematics, Series of Physical-Technical & Mathematics Science, Azerbaijan
+   National Academy of Science;
 2. Caspian journal of Applied Mathematics, Ecology and Economics;
 
 ### <em>Editor of the following journals</em>
@@ -14,7 +15,8 @@ title: "Editorial Activity - Prof. Dr. Vagif S. Guliyev"
 3. Applied and Computational Mathematics;
 4. Azerbaijan Journal of Mathematics;
 5. Proceedings of Institute of Mathematics and Mechanics of NAS of Azerbaijan;
-6. Communications de la Faculté des Sciences de l'Université d'Ankara. Séries A1. Mathematics and Statistics;
+6. Communications de la Faculté des Sciences de l'Université d'Ankara. Séries A1. Mathematics and
+   Statistics;
 7. Journal of Nonlinear Sciences and Applications (J. Nonlinear Sci. Appl.);
 8. International Journal of Mathematical Physics.
 

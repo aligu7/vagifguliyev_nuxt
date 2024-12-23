@@ -32,8 +32,9 @@ images:
     "/img/gallery/5-6.jpg",
     "/img/gallery/5-7.jpg",
     "/img/gallery/5-8.jpg",
-    "/img/gallery/5-9.jpg",
+    "/img/gallery/5-9.jpg"
   ]
 ---
 
-Here you can find different photos from different conferences, seminars, workshops and academic visits.
+Here you can find different photos from different conferences, seminars, workshops and academic
+visits.

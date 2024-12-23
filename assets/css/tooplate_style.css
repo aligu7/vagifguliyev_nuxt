@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   color: #302d26;
-  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 12px;
   line-height: 1.4em;
   background-color: #a09c93;
@@ -189,7 +189,7 @@ h6 {
 }
 #site_title a {
   font-size: 24px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 700;
   color: #fff;
 }
@@ -312,7 +312,7 @@ h6 {
   color: #333;
   border: 1px solid #887e69;
   background: #a59c89;
-  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 #contact_form form label {
   display: block;
@@ -325,7 +325,7 @@ h6 {
   color: #333;
   border: 1px solid #887e69;
   background: #a59c89;
-  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 13px;
 }
 #contact_form form .submit_btn {

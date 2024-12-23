@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("research", () =>
-  queryContent("/research").findOne()
-);
+const { data } = await useAsyncData("research", () => queryContent("/research").findOne());
 </script>
 
 <template>
@@ -15,11 +13,7 @@ const { data } = await useAsyncData("research", () =>
           {{ research }}
         </li>
       </ul>
-      <img
-        :src="data.researchHeroImage"
-        alt="image"
-        class="img_float_r img_frame"
-      />
+      <img :src="data.researchHeroImage" alt="image" class="img_float_r img_frame" />
 
       <div class="cleaner"></div>
     </div>

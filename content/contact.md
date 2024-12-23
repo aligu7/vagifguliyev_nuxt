@@ -5,7 +5,7 @@ links:
     mapLocation: "https://www.google.com/maps/place/ANAS+Institute+of+Mathematics+and+Mechanics/@40.3759479,49.8094126,17z/data=!4m8!1m2!2m1!1sResearch+institute!3m4!1s0x40307deb95f28643:0x3228e78b65b45f13!8m2!3d40.3759357!4d49.8116013?hl=en",
     linkedin: "https://linkedin.com/in/vagif-guliyev-71856a70?trk=profile-badge",
     twitter: "https://twitter.com/ProfVagifG?ref_src=twsrc%5Etfw",
-    email: "vagif@guliyev.com",
+    email: "vagif@guliyev.com"
   }
 ---
 
@@ -32,8 +32,7 @@ Corresponding-member of ANAS
 
 Title: Professor
 
-Doctor of Physical and Mathematical Sciences
-</em>
+Doctor of Physical and Mathematical Sciences </em>
 
 <hr />
 

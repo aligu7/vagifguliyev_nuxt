@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("about", () =>
-  queryContent("/about").findOne()
-);
+const { data } = await useAsyncData("about", () => queryContent("/about").findOne());
 </script>
 
 <template>
@@ -9,11 +7,7 @@ const { data } = await useAsyncData("about", () =>
     <div id="about" class="main_box">
       <h1>About</h1>
 
-      <img
-        :src="data.vagifguliyev94"
-        alt="image"
-        class="img_float_r img_frame"
-      />
+      <img :src="data.vagifguliyev94" alt="image" class="img_float_r img_frame" />
 
       <ul>
         <li v-for="line in data.aboutList" :key="line">
@@ -25,11 +19,7 @@ const { data } = await useAsyncData("about", () =>
       <div class="col_12 float_l">
         <h3><em>Area of Interest</em></h3>
         <ul>
-          <li
-            style="margin-bottom: 10px"
-            v-for="area in data.areaOfInterest"
-            :key="area"
-          >
+          <li style="margin-bottom: 10px" v-for="area in data.areaOfInterest" :key="area">
             <cite v-if="area.bold">{{ area.text }}</cite>
             <i v-else>{{ area.text }}</i>
           </li>
@@ -38,31 +28,19 @@ const { data } = await useAsyncData("about", () =>
       <div class="col_12 float_r">
         <h3><em>Official Recommendations</em></h3>
         <ul class="tooplate_list">
-          <li
-            v-for="recommendation in data.officialRecommendations"
-            :key="recommendation"
-          >
-            <img
-              :src="recommendation.personImg"
-              alt="image"
-              class="img_float_r img_frame"
-            />
+          <li v-for="recommendation in data.officialRecommendations" :key="recommendation">
+            <img :src="recommendation.personImg" alt="image" class="img_float_r img_frame" />
             <a :href="recommendation.nameLink" target="_blank" rel="nofollow">
               <em
                 ><strong>{{ recommendation.name }}</strong>
               </em>
             </a>
-            <div v-for="line in recommendation.description" :key="line">
-              {{ line }} <br />
-            </div>
+            <div v-for="line in recommendation.description" :key="line">{{ line }} <br /></div>
             <div v-if="recommendation.externalLink">
               <em>
-                <a
-                  style="color: white"
-                  target="_blank"
-                  :href="recommendation.externalLink.url"
-                  >{{ recommendation.externalLink.text }}</a
-                >
+                <a style="color: white" target="_blank" :href="recommendation.externalLink.url">{{
+                  recommendation.externalLink.text
+                }}</a>
               </em>
               <br />
             </div>

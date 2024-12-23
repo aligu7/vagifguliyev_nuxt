@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("titles", () =>
-  queryContent("/titles").findOne()
-);
+const { data } = await useAsyncData("titles", () => queryContent("/titles").findOne());
 </script>
 
 <template>
@@ -19,9 +17,7 @@ const { data } = await useAsyncData("titles", () =>
           <td>{{ dataRowEl.year }}</td>
           <td>{{ dataRowEl.title }}</td>
           <td>
-            <span v-for="line in dataRowEl.university" :key="line">
-              {{ line }} <br />
-            </span>
+            <span v-for="line in dataRowEl.university" :key="line"> {{ line }} <br /> </span>
           </td>
         </tr>
       </table>

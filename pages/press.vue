@@ -1,7 +1,5 @@
 <script setup>
-const { data } = await useAsyncData("press", () =>
-  queryContent("/press").findOne()
-);
+const { data } = await useAsyncData("press", () => queryContent("/press").findOne());
 </script>
 
 <template>

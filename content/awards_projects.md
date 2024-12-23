@@ -7,18 +7,23 @@ images:
     "/img/crdf.png",
     "/img/intas.png",
     "/img/ahi-evran.png",
-    "/img/amea2.jpg",
+    "/img/amea2.jpg"
   ]
 ---
 
 ### <em>Honours and Awards</em>
 
-- 1993 - Awarded for high level of his scientific work with “Soros Foundation” prize of American Mathematical Society
-- 2000 - Honorary diploma of Ministry of Education of Azerbaijan Republic for his fruitful scientific-pedagogical work in training of high-skilled personnel
+- 1993 - Awarded for high level of his scientific work with “Soros Foundation” prize of American
+  Mathematical Society
+- 2000 - Honorary diploma of Ministry of Education of Azerbaijan Republic for his fruitful
+  scientific-pedagogical work in training of high-skilled personnel
 - 2002 – Honorary Award of “NATO Science Prop Coll Linkage Grand” prize
-- 2008 – Honorary Award and Scientific Grant of INTAS project by EU Belgium for team leader skills in the project
-- 2014 – Honorary Award of Gold Medal as the best patriotic researcher by the decision of Prize Commission of“Europe Publishing House”
-- 2017 – Honorary Certificate Award by Azerbaijan National Academy of Sciences on the occasion of his 60 anniversary for his merits in development of Mathematics Science in Azerbaijan
+- 2008 – Honorary Award and Scientific Grant of INTAS project by EU Belgium for team leader skills
+  in the project
+- 2014 – Honorary Award of Gold Medal as the best patriotic researcher by the decision of Prize
+  Commission of“Europe Publishing House”
+- 2017 – Honorary Certificate Award by Azerbaijan National Academy of Sciences on the occasion of
+  his 60 anniversary for his merits in development of Mathematics Science in Azerbaijan
 
 <hr />
 
@@ -51,7 +56,8 @@ images:
 
     - Prof. Vagif Guliyev, Azerbaijan Academy of Sciences, Azerbaijan
 
-    - [Prof. Victor Burenkov](http://www.cardiff.ac.uk/maths/people/burenkov.html), Cardiff University, UK
+    - [Prof. Victor Burenkov](http://www.cardiff.ac.uk/maths/people/burenkov.html), Cardiff
+      University, UK
 
     <br />
     <br />
@@ -101,7 +107,8 @@ images:
 
     INTAS Ref. Nr 06-1000015-5635
 
-    Title: Function Spaces and Related Integral Operators, associated with the Laplace-Bessel differential operator
+    Title: Function Spaces and Related Integral Operators, associated with the Laplace-Bessel
+    differential operator
 
     NIS Supervisor --- Prof. Vagif Guliyev (Azerbaijan)
 
@@ -110,7 +117,8 @@ images:
     <br />
     <br />
 
-6.  INTAS Grant for Young Scientists in the category Post Doctoral Fellowship for Cand. Sc. Rza Chingiz
+6.  INTAS Grant for Young Scientists in the category Post Doctoral Fellowship for Cand. Sc. Rza
+    Chingiz
 
     Mustafayev, 2007-2008
 
@@ -174,20 +182,23 @@ images:
     <br />
     <br />
 
-10. Grant project of Science-research programs of ANAS, “Contemporary problems of harmonic analysis in local Morrey-type space and applications”,
+10. Grant project of Science-research programs of ANAS, “Contemporary problems of harmonic analysis
+    in local Morrey-type space and applications”,
 
     01.03.2015-01.03.2017;
 
     <br />
     <br />
 
-11. Grant project of Science Development Foundation, "Boundedness of integral operators of real analysis some functional spaces and their applications",
+11. Grant project of Science Development Foundation, "Boundedness of integral operators of real
+    analysis some functional spaces and their applications",
 
     01.02.2015-01.02.2016;
 
     <br />
     <br />
 
-12. Grant project of Ahi-Evran University, “Boundedness of integral operators of harmonic analysis in Orlicz-Morrey spaces”,
+12. Grant project of Ahi-Evran University, “Boundedness of integral operators of harmonic analysis
+    in Orlicz-Morrey spaces”,
 
     16.06.2013-16.06.2015.
