@@ -18,5 +18,6 @@ export default defineNuxtConfig({
   },
   content: {
     documentDriven: true
-  }
+  },
+  preset: "cloudflare-pages"
 });
