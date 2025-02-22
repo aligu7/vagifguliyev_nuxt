@@ -8,16 +8,14 @@ export default defineNuxtConfig({
   css: ["./assets/css/tooplate_style.css", "./assets/css/custom.css"],
   // modules: ['@nuxt/ui'],
   components: true,
-  ssr: false,
-  target: "static",
-  nitro: {
-    preset: "netlify"
-  },
-  generate: {
-    fallback: true
-  },
   content: {
     documentDriven: true
   },
-  preset: "cloudflare-pages"
+  // IMPORTANT: Specify a Cloudflare preset so Nuxt Hub can work
+  nitro: {
+    preset: "cloudflare-pages",
+    output: {
+      dir: "dist" // Forces Nuxt to use dist instead of .output
+    }
+  }
 });
