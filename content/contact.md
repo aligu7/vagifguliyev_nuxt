@@ -2,7 +2,7 @@
 title: "Contact - Prof. Dr. Vagif S. Guliyev"
 links:
   {
-    mapLocation: "https://www.google.com/maps/place/ANAS+Institute+of+Mathematics+and+Mechanics/@40.3759479,49.8094126,17z/data=!4m8!1m2!2m1!1sResearch+institute!3m4!1s0x40307deb95f28643:0x3228e78b65b45f13!8m2!3d40.3759357!4d49.8116013?hl=en",
+    mapLocation: "https://www.google.com/maps/place/Baku+State+University/@40.3745534,49.8011654,15z/data=!3m1!4b1!4m14!1m7!3m6!1s0x40307dea2b26aff9:0x8bf044493464664c!2sBaku+State+University!8m2!3d40.3745539!4d49.8114651!16zL20vMGNsam52!3m5!1s0x40307dea2b26aff9:0x8bf044493464664c!8m2!3d40.3745539!4d49.8114651!16zL20vMGNsam52?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D",
     linkedin: "https://linkedin.com/in/vagif-guliyev-71856a70?trk=profile-badge",
     twitter: "https://twitter.com/ProfVagifG?ref_src=twsrc%5Etfw",
     email: "vagif@guliyev.com"
@@ -17,16 +17,14 @@ links:
 
 <hr />
 
-###### ADDRESS: 9 B. Vahabzade street, BAKU, AZERBAIJAN
+###### ADDRESS: 23 B. Vahabzade street, BAKU, AZERBAIJAN
 
-###### Institute of Mathematics and Mechanics
+###### Institute of Applied Mathematics of Baku State University
 
 ###### Azerbaijan National Academy of Sciences (ANAS)
 
 <em>
 Position: Deputy Director (on Science)
-
-Head Department of Mathematical Analysis
 
 Corresponding-member of ANAS
 
@@ -36,9 +34,9 @@ Doctor of Physical and Mathematical Sciences </em>
 
 <hr />
 
-###### Professor of <a href="http://www.dumlupinar.edu.tr/" target="\_blank"> Dumlupinar University</a>
+###### Professor of <a href="https://www.ahievran.edu.tr/" target="\_blank"> Kirsehir Ahi Evran University</a>
 
-###### Kutahya, Turkey
+###### Kirsehir, Turkey
 
 <hr />
 
