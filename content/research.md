@@ -12,5 +12,5 @@ researchList:
     "Modern problems of harmonic analysis in Laplace, Laguerre, Genegbauer, Dunkl and such",
     "Regularity properties of elliptic and parabolic differential equations with VMO coefficients"
   ]
-researchHeroImage: "img/93-vagif guliyev2.jpg"
+researchHeroImage: "img/93-vagif-guliyev2.jpg"
 ---
